@@ -8,6 +8,9 @@ The Excel dashboard is structured to help stakeholders understand key performanc
 - **Order Month** (2024, 2025)
 - **Preferences** (Veg, Non-Veg, Vegan)
 - **Membership Type** (Gold, Platinum, Regular)
+---
+![img](https://github.com/Rajkumar-dataanalyst/Swiggy_Project/blob/main/dashboard_image.png?raw=true)
+---
 
 ### Key KPIs
 - 💰 **Total Revenue:** `$10.4M`
